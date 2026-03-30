@@ -38,8 +38,6 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HansaHH&theme=dark&hide_border=true" alt="HansaHH's GitHub Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HansaHH&theme=dark&hide_border=true&layout=compact&v=1" alt="HansaHH's Top Languages" />
 </div>
 
 ---
